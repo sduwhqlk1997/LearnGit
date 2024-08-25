@@ -8,3 +8,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 5.3 管理修改
 111
+My stupid boss still prefers SVN.
